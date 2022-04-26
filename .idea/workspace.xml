@@ -14,34 +14,34 @@
     <session id="-1301795687">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
-          <entry key="txt" value="7" />
+          <entry key="py" value="15" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="14" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2462" />
+          <entry key="py" value="2611" />
           <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="2462" />
+          <entry key="Python" value="2611" />
         </counts>
       </usages-collector>
     </session>
@@ -84,16 +84,34 @@
         <entry file="file://$PROJECT_DIR$/baekjoon/1157 단어공부/solution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/2167 2차원 배열의 합/solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baekjoon/2167 2차원 배열의 합/solution.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/1475 방 번호/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="480">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/1475 방 번호/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -129,14 +147,16 @@
         <option value="$PROJECT_DIR$/baekjoon/1157 단어공부/input.txt" />
         <option value="$PROJECT_DIR$/baekjoon/2167 2차원 배열의 합/input.txt" />
         <option value="$PROJECT_DIR$/baekjoon/2167 2차원 배열의 합/solution.py" />
+        <option value="$PROJECT_DIR$/baekjoon/1475 방 번호/input.txt" />
+        <option value="$PROJECT_DIR$/baekjoon/1475 방 번호/solution.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2453" />
+    <option name="y" value="-175" />
+    <option name="width" value="783" />
+    <option name="height" value="839" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -146,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,12 +182,19 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="1475 방 번호" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
               <item name="2167 2차원 배열의 합" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,15 +210,15 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon\1475 방 번호" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon\2167 2차원 배열의 합" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon\1157 단어공부" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon\2750 수 정렬하기" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon\1436 영화감독 숌" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon\7568 덩치" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -344,15 +370,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="-7" width="782" height="838" extended-state="0" />
+    <frame x="1912" y="-464" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3266399" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32648763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2087447" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2087447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,7 +504,7 @@
     <entry file="file://$PROJECT_DIR$/baekjoon/1157 단어공부/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -491,8 +517,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/2167 2차원 배열의 합/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/1475 방 번호/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/1475 방 번호/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
