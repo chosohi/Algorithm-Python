@@ -1,18 +1,38 @@
-def solution(participant, completion):
+def solution(numbers, hand):
     answer = ''
-    tmp = {}
-    for person in (participant):
-        # participant을 하나씩 순회하면서
-        # tmp에 키:밸류로 1씩 더해줌
-        if tmp.get(person):
-            tmp[person] += 1
+    position = ['*', '#']
+    left = [1, 4, 7]
+    right = [3, 6, 9]
+    keypad = {
+        1: (0, 0), 2: (0, 1), 3: (0, 2),
+        4: (1, 0), 5: (1, 1), 6: (1, 2),
+        7: (2, 0), 8: (2, 1), 9: (2, 2),
+        '*': (3, 0), 0: (3, 1), '#': (3, 2)}
+    for num in numbers:
+        if num in left:
+            answer += 'L'
+            position[0] = num
+        elif num in right:
+            answer += 'R'
+            position[1] = num
         else:
-            tmp[person] = 1
+            near_hand = get_near_hand(position[0], position[1], keypad, num, hand)
+            print(near_hand)
+            if near_hand == 'L':
+                answer+= 'L'
+                position[0] = num
+            else:
+                answer += 'R'
+                position[1] = num
 
-    # completion를 순회하면서
-    # tmp의 키값에 해당되고, 그 벨류 1이상이면
-    # participant의 벨류를 1씩 감소
     return answer
 
 
-solution(["leo", "kiki", "eden"],	["eden", "kiki"])
+def get_near_hand(l, r, keypad, num, hand):
+    left_distance = abs(keypad[num][0] - keypad[l][0]) + abs(keypad[num][1] - keypad[l][1])
+    right_distance = abs(keypad[num][0] - keypad[r][0]) + abs(keypad[num][1] - keypad[r][1])
+    near_hand = 'L' if left_distance > right_distance else 'R'
+    if left_distance == right_distance:
+            near_hand = 'R' if hand == "right" else 'L'
+    return near_hand
+solution([1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5]	, "right")
