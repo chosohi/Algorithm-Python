@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c21219c6-f65c-4b79-ab3c-f618cea780ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/1475 방 번호/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/1475 방 번호/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/키패드 누르기/AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/키패드 누르기/AA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_base/그리디 알고리즘/뮤직비디오/AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_base/그리디 알고리즘/뮤직비디오/AA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +88,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/Sclass/Desktop/Github/Algorithm/algorithm_base/그리디 알고리즘/회의실 배정"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sclass/Desktop/Github/Algorithm/algorithm_base/그리디 알고리즘/회의실 배정&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="Algorithm" is-module-sdk="true">
