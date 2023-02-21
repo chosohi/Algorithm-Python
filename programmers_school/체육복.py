@@ -41,3 +41,4 @@ def solution2(n,lost,reserve):
 
     return n - len(l)
 print(solution2(5,[2, 4],[1, 3, 5]))
+
