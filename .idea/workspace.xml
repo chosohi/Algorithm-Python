@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c21219c6-f65c-4b79-ab3c-f618cea780ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/.idea/programmers_school.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/N으로 표현/N으로 표현.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/N으로 표현/N으로 표현.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/N으로 표현/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/N으로 표현/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/N으로 표현/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/N으로 표현/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/N으로 표현/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/N으로 표현/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/tshirt.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/tshirt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/가장 큰 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/가장 큰 수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/더 맵게/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/더 맵게/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/더 맵게/더 맵게.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/더 맵게/더 맵게.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/상담예약제.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/상담예약제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers_school/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/체육복.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +65,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2453" />
     <option name="y" value="-175" />
@@ -101,8 +122,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Sclass/Desktop/Github/Algorithm/algorithm_base/그리디 알고리즘/회의실 배정",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/chosohi/Desktop/study/Algorithm-Python",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -122,11 +144,33 @@
       <recent name="\" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programmers" />
       <recent name="C:\Users\choso\OneDrive\바탕 화면\study\PY-Algorithm\programmers_school\더 맵게" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\baekjoon" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.N으로 표현">
+  <component name="RunManager" selected="Python.10872팩토리얼">
+    <configuration name="적어도 대부분의 배수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/적어도 대부분의 배수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="상담예약제" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,12 +179,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\choso\AppData\Local\Programs\Python\Python311\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers_school" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers_school/상담예약제.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/상담예약제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10872팩토리얼" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/10872팩토리얼.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,6 +236,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10872팩토리얼" />
+        <item itemvalue="Python.적어도 대부분의 배수" />
         <item itemvalue="Python.N으로 표현" />
       </list>
     </recent_temporary>
