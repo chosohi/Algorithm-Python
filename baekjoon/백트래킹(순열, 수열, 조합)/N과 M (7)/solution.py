@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('baekjoon/재귀/N과 M (1)/input.txt', 'r') #file open
+sys.stdin = open('baekjoon/백트래킹(순열, 수열, 조합)/N과 M (1)/input.txt', 'r') #file open
 
 N = int(input())
 

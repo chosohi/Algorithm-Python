@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('baekjoon/재귀/N과 M (4)/input.txt', 'r') #file open
+sys.stdin = open('baekjoon/백트래킹(순열, 수열, 조합)/N과 M (4)/input.txt', 'r') #file open
 
 # 1부터 N까지 자연수 중에서 M개를 고른 수열
 # 같은 수를 여러 번 골라도 된다.
